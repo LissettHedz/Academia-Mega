@@ -1,0 +1,15 @@
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.sourcelink.json
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+C:\Proyectos\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
