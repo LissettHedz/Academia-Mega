@@ -1,4 +1,4 @@
-// Autor: Minerva Herandez Godinez
+// Autor: Lissette Hernandez Herandez Godinez
 namespace SkyCast.Services;
 
 /// <summary>

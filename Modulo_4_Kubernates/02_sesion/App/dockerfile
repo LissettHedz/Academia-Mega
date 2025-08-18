@@ -1,4 +1,4 @@
-#**Minerva Hernandez**#
+#**Lissette Hernandez**#
 # Esta es la base o el runtime donde mi app se va a ejecutar
 FROM node:latest
 
